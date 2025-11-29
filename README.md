@@ -1,6 +1,3 @@
-# absculture.github.io
-abs culture site
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="utf-8">
